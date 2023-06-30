@@ -1,0 +1,68 @@
+body {
+    background-color: #131411;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* Styling the Title and giving
+		shadow to the title */
+#title {
+    text-align: center;
+    font-size: 7vh;
+    color: rgb(236, 231, 231);
+}
+
+/* Setting width and display
+		type of image */
+.top,
+.top-section {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+/* Setting font color and font
+		size of the image-caption */
+#caption {
+    font-size: 25px;
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(236, 231, 231);
+}
+
+/* Styling the content of the page like-
+		padding, font-size, font color etc.*/
+div#middle {
+    background-color: #7fb499;
+    box-shadow: 20px 20px 20px #7c898e;
+    font-family: 'Open Sans', sans-serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+/* Styling the title of the content */
+h1.title-Nikola {
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 1px 1px rgb(113, 82, 82);
+}
+
+/* Styling the link provided at the end */
+#tribute-link {
+    text-decoration: none;
+    color: rgb(96, 83, 83);
+}
+
+#image {
+    width: 250px;
+    border-radius: 10%;
+}
+
+.bottom {
+    margin: 7%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(236, 231, 231);
+}
